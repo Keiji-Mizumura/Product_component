@@ -1,2 +1,2 @@
 # Product_component
-# Product_component
+Frontend mentor project
